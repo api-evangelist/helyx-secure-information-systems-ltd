@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Helyx secure information systems ltd is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.helyx.co.uk/
+Helyx secure information systems ltd provides specialist geospatial information management and exploitation solutions, primarily serving defence and government sectors in the UK. The company offers consultancy, technical services, and integrates vendor solutions to enhance decision‑making in demanding environments, while expanding into commercial markets.
+
+**Areas:** Company · Geospatial · InformationManagement · Defence · Consultancy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.helyx.co.uk/)
+- [Security](https://www.helyx.co.uk/vulnerability-reporting)
+- [Privacy policy](https://www.helyx.co.uk/privacy-policy/)
+- [GitHub](https://github.com/helyx)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/helyx-secure-information-systems-ltd/](https://apis.io/providers/helyx-secure-information-systems-ltd/).
